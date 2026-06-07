@@ -1,0 +1,43 @@
+# Geotechnique — Gap
+
+> Geotechnical engineering services in Gap, France.
+
+## Services
+- [Amelioration Sols](https://gap.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://gap.geotechnique.vip/ancrages/)
+- [Chaussee Rigide](https://gap.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://gap.geotechnique.vip/chaussee-souple/)
+- [Densite Cone Sable](https://gap.geotechnique.vip/densite-cone-sable/)
+- [Essai Cpt](https://gap.geotechnique.vip/essai-cpt/)
+- [Essai Plaque Charge](https://gap.geotechnique.vip/essai-plaque-charge/)
+- [Excavations](https://gap.geotechnique.vip/excavations/)
+- [Fondations](https://gap.geotechnique.vip/fondations/)
+- [Geophysique](https://gap.geotechnique.vip/geophysique/)
+- [Geotechnique Routiere](https://gap.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://gap.geotechnique.vip/granulometrie/)
+- [Injections](https://gap.geotechnique.vip/injections/)
+- [Investigation](https://gap.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://gap.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://gap.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://gap.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://gap.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://gap.geotechnique.vip/liquefaction/)
+- [Masw](https://gap.geotechnique.vip/masw/)
+- [Murs Soutenement](https://gap.geotechnique.vip/murs-soutenement/)
+- [Radiers](https://gap.geotechnique.vip/radiers/)
+- [Resistivite](https://gap.geotechnique.vip/resistivite/)
+- [Sismique](https://gap.geotechnique.vip/sismique/)
+- [Sondages Spt](https://gap.geotechnique.vip/sondages-spt/)
+- [Stabilite Talus](https://gap.geotechnique.vip/stabilite-talus/)
+- [Surveillance Excavations](https://gap.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://gap.geotechnique.vip/talus/)
+- [Triaxial](https://gap.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://gap.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://gap.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://gap.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Gap, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
